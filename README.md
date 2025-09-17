@@ -4,7 +4,7 @@
 
 - 🛠️ Core Skills: React, Node.js, Express, MongoDB, PHP, SQL, and WordPress (Elementor/Elementor Pro). Specialize in Custom Theme Development with TailPress.
 
-- 👨‍💻 Current Role: Crafting innovative solutions as a MERN Stack Developer at DMIS.
+- 👨‍💻 Current Role: Crafting innovative solutions as a MERN Stack Developer at AbizSol.
 
 - 🌟 Past Experience: Former Jr. WordPress Developer at Webzeto, where I honed my skills in WordPress development and custom themes.
 
